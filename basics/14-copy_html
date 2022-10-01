@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -Ru *.html pwd cd -
+cp -u *.html
